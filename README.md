@@ -1,16 +1,60 @@
-# notes_clone
+# Notes App
 
-A new Flutter application.
+A flutter application project that lets you keep notes.
 
-## Getting Started
+## Overview of the application
 
-This project is a starting point for a Flutter application.
+### Description 
 
-A few resources to get you started if this is your first Flutter project:
+- It has 3 Widgets , 2 screens and 2 classes
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- **Widgets**
+  - [Side-drawer](https://github.com/pr4nshul/Notes-app/blob/master/lib/widgets/drawer.dart)
+  - [GridView](https://github.com/pr4nshul/Notes-app/blob/master/lib/widgets/grid_widget.dart)
+  - [ListView](https://github.com/pr4nshul/Notes-app/blob/master/lib/widgets/list_widget.dart)
+  
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Screens**
+  - [Archive](https://github.com/pr4nshul/Notes-app/blob/master/lib/screen/dart/archive_notes.dart)
+  - [Home](https://github.com/pr4nshul/Notes-app/blob/master/lib/screen/dart/home_notes_screen.dart)
+
+- **Classes**
+  - [Note](https://github.com/pr4nshul/Notes-app/blob/master/lib/class/Note.dart)
+  - [Database](https://github.com/pr4nshul/Notes-app/blob/master/lib/class/database.dart)
+  
+### Overview of the user interface of the application
+
+- *Home Screen*
+
+  ![Home](/screenshots/Welcome.png)
+  
+  - *Side Drawer*
+  
+  ![Side-Drawer](/screenshots/drawer.png)
+  
+  - *Note UI*
+
+  ![Empty Note]("/screenshots/Note empty.png")
+
+  ![Test Note]("/screenshots/test note.png")
+  
+  - *Home Screen UI*
+  
+  ![First note]("/screenshots/first note.png")
+
+  ![Multiple Colors]("/screenshots/multiple colors.png")
+
+  ![Handling long notes and grid view]("/screenshots/handling long notes.png")
+
+  - *Archiving a Note*
+  
+  ![Archive note]("/screenshots/archive note.png")
+
+  ![Archived Screen]("/screenshots/archived note.png")
+
+
+  
+
+
+
+

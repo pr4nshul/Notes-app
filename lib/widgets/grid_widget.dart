@@ -70,7 +70,7 @@ class _GridWidgetState extends State<GridWidget> {
                     children: [
                       Center(
                         child: Container(
-                          padding: EdgeInsets.all(8),
+                          padding: EdgeInsets.all(6),
                           margin: EdgeInsets.fromLTRB(0, 0, 0, 6),
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(12),
@@ -79,6 +79,8 @@ class _GridWidgetState extends State<GridWidget> {
                           child: Text(
                             utf8.decode(
                                 _notes[_notes.length - index - 1]['title']),
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
                             style: TextStyle(
                                 color: Colors.white,
                                 fontWeight: FontWeight.bold,

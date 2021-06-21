@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:notes_clone/class/Note.dart';
 import 'package:notes_clone/handling_note.dart';
-import 'package:notes_clone/screen/dart/home_allNotes_screen.dart';
+import 'package:notes_clone/screen/dart/home_notes_screen.dart';
 import 'package:notes_clone/widgets/drawer.dart';
 import 'package:provider/provider.dart';
 
