@@ -34,23 +34,23 @@ A flutter application project that lets you keep notes.
   
   - *Note UI*
 
-  ![Empty Note]("/screenshots/Note empty.png")
+  ![Empty Note](/screenshots/Note_empty.png)
 
-  ![Test Note]("/screenshots/test note.png")
+  ![Test Note](/screenshots/test_note.png)
   
   - *Home Screen UI*
   
-  ![First note]("/screenshots/first note.png")
+  ![First note](/screenshots/first_note.png)
 
-  ![Multiple Colors]("/screenshots/multiple colors.png")
+  ![Multiple Colors](/screenshots/multiple_colors.png)
 
-  ![Handling long notes and grid view]("/screenshots/handling long notes.png")
+  ![Handling long notes and grid view](/screenshots/handling_long_notes.png)
 
   - *Archiving a Note*
   
-  ![Archive note]("/screenshots/archive note.png")
+  ![Archive note](/screenshots/archive_note.png)
 
-  ![Archived Screen]("/screenshots/archived note.png")
+  ![Archived Screen](/screenshots/archived_note.png)
 
 
   
