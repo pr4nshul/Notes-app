@@ -21,7 +21,13 @@ A flutter application project that lets you keep notes.
 - **Classes**
   - [Note](https://github.com/pr4nshul/Notes-app/blob/master/lib/class/Note.dart)
   - [Database](https://github.com/pr4nshul/Notes-app/blob/master/lib/class/database.dart)
-  
+
+## Packages
+- [SqfLite](https://pub.dev/packages/sqflite)
+- [Provider](https://pub.dev/packages/provider)
+- [intl](https://pub.dev/packages/intl)
+- [Path](https://pub.dev/packages/path)
+
 ### Overview of the user interface of the application
 
 - *Home Screen*
@@ -51,6 +57,14 @@ A flutter application project that lets you keep notes.
   ![Archive note](/screenshots/archive_note.png)
 
   ![Archived Screen](/screenshots/archived_note.png)
+
+## How to run this app on your phone or emulator.
+* You need to setup **Flutter** environment on your machine
+  -[Refer this](https://flutter.dev/docs/get-started/install/windows) 
+* Follow these steps and then open the project in your IDE and you are done!
+
+## Want to Contribute? 
+* Refer [Contributing.md](/Contributing.md)
 
 
   
